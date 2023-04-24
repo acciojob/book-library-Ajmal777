@@ -3,7 +3,8 @@ body{
 	text-align: center;
 }
 
-.book-library{;
+.book-library{
+	width: 90%;
 	background: #f8f8f8;
 	font-family: sans-serif;
 	padding-top: 15px;
@@ -17,14 +18,14 @@ body{
 .details{
 	text-align: left;
 }
-.details h3{
+.details h2{
 	margin-bottom: 2px;
 }
 .author{
 	margin: 0;
 	color: #777777;
 }
-button{
+.price{
 	background: #2ecc71;
 	color: white;
 	width: 100%;
