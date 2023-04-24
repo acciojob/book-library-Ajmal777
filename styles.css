@@ -19,7 +19,8 @@ body{
 .details{
 	text-align: left;
 }
-.details h2{
+
+h2[class="details"]{
 	margin-bottom: 2px;
 }
 .author{
